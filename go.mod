@@ -1,4 +1,4 @@
-module github.com/samedkonak/yerror
+module github.com/samkon/yerror
 
 go 1.18
 
